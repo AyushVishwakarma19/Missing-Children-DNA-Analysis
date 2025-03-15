@@ -5,16 +5,16 @@ Analyzing DNA matches to help identify missing children using structured profili
 This project focuses on DNA profiling to identify missing children by analyzing genetic similarities. Using Python (Jupyter Notebook) for data analysis, this project provides insights into potential familial relationships based on genetic markers.
 
 ## Dataset Information
-The dataset consists of synthetic DNA profile data with the following attributes:
+The dataset consists of **synthetic DNA profile data** with the following attributes:  
 
-ID - Unique identifier for each individual
-Gender - Male/Female
-Age - Age of the individual
-Region - Geographical region
-Parent_ID - Links parent-child relationships
-Match_Score - Similarity score between DNA profiles
-Status - Missing/Found
-STR_1 to STR_5 - Short Tandem Repeat markers for DNA profiling
+- **ID** – Unique identifier for each individual  
+- **Gender** – Male/Female  
+- **Age** – Age of the individual  
+- **Region** – Geographical region  
+- **Parent_ID** – Links parent-child relationships  
+- **Match_Score** – Similarity score between DNA profiles  
+- **Status** – Missing/Found  
+- **STR_1 to STR_5** – Short Tandem Repeat markers for DNA profiling  
 
 ## Analysis & Visualizations
 This project implements several key analyses using Python:
