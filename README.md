@@ -17,14 +17,14 @@ The dataset consists of **synthetic DNA profile data** with the following attrib
 - **STR_1 to STR_5** – Short Tandem Repeat markers for DNA profiling  
 
 ## Analysis & Visualizations
-This project implements several key analyses using Python:
+This project implements several key analyses using Python:  
 
-✔️ Data Cleaning & Preprocessing – Handling missing values, formatting data
-✔️ Distribution of DNA Matches by Relationship Type – Pie chart analysis
-✔️ Age Distribution of Missing Children – Histogram visualization
-✔️ Gender-Based Distribution of Missing Children – Pie chart
-✔️ Geographical Distribution of Cases – Heatmaps and bar charts
-✔️ STR Marker Distribution Analysis – Boxplots to compare genetic variations
+- **Data Cleaning & Preprocessing** – Handling missing values, formatting data  
+- **Distribution of DNA Matches by Relationship Type** – Pie chart analysis  
+- **Age Distribution of Missing Children** – Histogram visualization  
+- **Gender-Based Distribution of Missing Children** – Pie chart  
+- **Geographical Distribution of Cases** – Heatmaps and bar charts  
+- **STR Marker Distribution Analysis** – Boxplots to compare genetic variations  
 
 ## Technologies Used
 🔹 Python (Pandas, NumPy, Matplotlib, Seaborn)
