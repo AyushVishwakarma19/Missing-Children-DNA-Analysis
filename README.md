@@ -2,7 +2,7 @@
 Analyzing DNA matches to help identify missing children using structured profiling and data visualization.
 
 ## Project Overview
-This project focuses on DNA profiling to identify missing children by analyzing genetic similarities. Using Python (Jupyter Notebook) for data analysis and Power BI for visualization, this project provides insights into potential familial relationships based on genetic markers.
+This project focuses on DNA profiling to identify missing children by analyzing genetic similarities. Using Python (Jupyter Notebook) for data analysis, this project provides insights into potential familial relationships based on genetic markers.
 
 ## Dataset Information
 The dataset consists of synthetic DNA profile data with the following attributes:
