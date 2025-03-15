@@ -46,9 +46,10 @@ Start Jupyter Notebook:
 jupyter notebook DNA PROFILING PROJ.ipynb
 
 ## Future Enhancements
-✅ Add Power BI dashboards for better data visualization
-✅ Incorporate machine learning to predict missing persons
-✅ Develop an automated DNA match recommendation system
+- Add Power BI dashboards for enhanced visualization  
+- Integrate machine learning for missing person predictions  
+- Build an automated DNA match recommendation system  
+
 
 ## Author
 💡 **Ayush Vishwakarma**
